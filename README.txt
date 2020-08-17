@@ -1,3 +1,7 @@
+Teste realizado para compra de um smartphone no site www.kabum.com.br
+
+
+
 Cenário: Comprar Smartphone
 Dado Acessar o site "https://www.kabum.com.br/"
 E Pesquisar por "Smartphone Samsung Galaxy A10s"
