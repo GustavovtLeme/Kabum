@@ -1,0 +1,26 @@
+Nome do Teste:	ComprarSmartphone
+FullName do Teste:	compraKabum.Cenario.AutomatizarCompraFeature.ComprarSmartphone
+Origem do Teste:	 : linha 0
+Resultado do Teste:	Aprovado
+Duração do Teste:	0:00:20,822
+
+Resultado StandardOutput:	
+Dado Acessar o site "https://www.kabum.com.br/"
+-> done: stepsKabum.DadoAcessarOSite("https://www.kabum...") (6,3s)
+E Pesquisar por "Smartphone Samsung Galaxy A10s"
+Elemnto preenchido com sucesso
+-> done: stepsKabum.DadoPesquisarPor("Smartphone Samsun...") (4,1s)
+E Validar pesquisa por "Smartphone Samsung Galaxy A10s"
+Processo Validado
+-> done: stepsKabum.DadoValidarPesquisaPor("Smartphone Samsun...") (1,0s)
+E Selecionar o aparelho da lista
+Elemento clicado com sucesso
+-> done: stepsKabum.DadoSelecionarOAparelhoDaLista() (0,1s)
+E Adicionar aparelho ao carrinho de compras
+Elemento clicado com sucesso
+Elemento clicado com sucesso
+-> done: stepsKabum.DadoAdicionarAparelhoAoCarrinhoDeCompras() (7,8s)
+Então Validar produto no carrinho de compras
+Processo Validado
+-> done: stepsKabum.EntaoValidarProdutoNoCarrinhoDeCompras() (1,2s)
+
